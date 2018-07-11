@@ -1,0 +1,4 @@
+PRODUCT_MAKEFILES := \
+$(LOCAL_DIR)/F605.mk \
+$(LOCAL_DIR)/omni_F605.mk \
+$(LOCAL_DIR)/omni_F605_F605.mk

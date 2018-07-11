@@ -1,0 +1,1 @@
+add_lunch_combo omni_F605_F605-userdebug
